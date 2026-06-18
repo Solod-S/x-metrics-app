@@ -6,8 +6,6 @@
 
 # X Metrics App
 
-<!-- ![X Metrics App Banner](./assets/banner.png) -->
-
 **Project Description:**
 
 X Metrics App is a Node.js backend service for retrieving and analyzing public Twitter (now X) user data.  
